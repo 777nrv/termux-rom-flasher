@@ -28,7 +28,7 @@ termux-setup-storage
 ### Step 4: Install MiTool [(Credit)](https://github.com/offici5l/MiTool)
 Run this command in Termux:
 ```bash
-curl -sS [https://raw.githubusercontent.com/offici5l/MiTool/master/install.sh](https://raw.githubusercontent.com/offici5l/MiTool/master/install.sh) | bash
+curl -sS https://raw.githubusercontent.com/offici5l/MiTool/master/install.sh | bash
 ```
 Accept any permission popups that appear in Termux during setup.
 ### Step 5: Extract the ROM
